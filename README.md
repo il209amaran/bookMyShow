@@ -84,8 +84,7 @@ the schema, including all relationships, primary keys, and foreign keys.
 This diagram clearly illustrates how entities such as movies, screens,
 customers, and tickets are connected.
 
-![](media/image1.png){width="6.268055555555556in"
-height="2.7680555555555557in"}
+<img width="960" height="424" alt="bookmyshow_er_diagram" src="https://github.com/user-attachments/assets/c3e445e1-2439-463c-b6a7-926e3b40289f" />
 
 **Design Highlights**
 
@@ -343,5 +342,4 @@ st.start_datetime;
 
 The screenshot below displays the query results based on the sample
 insert statements above.
-
-![](media/image2.png){width="6.268055555555556in" height="2.125in"}
+<img width="922" height="255" alt="image" src="https://github.com/user-attachments/assets/0b974f22-2373-49d5-ae90-65c5930096b3" />
